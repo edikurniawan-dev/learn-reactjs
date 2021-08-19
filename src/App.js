@@ -25,8 +25,7 @@ function App() {
                                     <div className="mb-4">
                                         <label
                                             htmlFor="firstname"
-                                            className="form-label"
-                                        >
+                                            className="form-label">
                                             Firstname
                                         </label>
                                         <input
@@ -37,15 +36,13 @@ function App() {
                                             }
                                             name="firstname"
                                             id="firstname"
-                                            className="form-control"
-                                        ></input>
+                                            className="form-control"></input>
                                     </div>
 
                                     <div className="mb-4">
                                         <label
                                             htmlFor="lastname"
-                                            className="form-label"
-                                        >
+                                            className="form-label">
                                             Lastname
                                         </label>
                                         <input
@@ -56,15 +53,13 @@ function App() {
                                             }
                                             name="lastname"
                                             id="lastname"
-                                            className="form-control"
-                                        ></input>
+                                            className="form-control"></input>
                                     </div>
 
                                     <div className="d-grid">
                                         <button
                                             className="btn btn-primary"
-                                            type="submit"
-                                        >
+                                            type="submit">
                                             Show
                                         </button>
                                     </div>
