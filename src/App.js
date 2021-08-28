@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import Router from './router';
 
 export default function App() {
     const [counter, setCounter] = useState(0);
